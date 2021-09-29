@@ -1,4 +1,4 @@
-# Laravel-food-ordering-App
+# Laravel-food-ordering-API
 
 #composer install
 
